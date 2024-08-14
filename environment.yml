@@ -26,4 +26,5 @@ dependencies:
   - python-dotenv
   - python=3.11
   - seaborn
+  - statsmodels
   - openpyxl

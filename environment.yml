@@ -2,7 +2,7 @@
 # mamba env create --file environment.yml
 # conda env export --from-history > environment.yml
 
-name: mcd_econometrics
+name: mcd_econometrics create --file environment.yml
 channels:
   - anaconda
   - conda-forge

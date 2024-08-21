@@ -1,8 +1,9 @@
 # conda env create --file environment.yml
 # mamba env create --file environment.yml
 # conda env export --from-history > environment.yml
+# conda env update --file environment.yml --prune
 
-name: mcd_econometrics create --file environment.yml
+name: mcd_econometrics
 channels:
   - anaconda
   - conda-forge
@@ -28,3 +29,5 @@ dependencies:
   - seaborn
   - statsmodels
   - openpyxl
+  - upsetplot
+  - missingno

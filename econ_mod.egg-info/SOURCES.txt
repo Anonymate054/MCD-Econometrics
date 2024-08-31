@@ -9,3 +9,5 @@ econ_mod.egg-info/dependency_links.txt
 econ_mod.egg-info/top_level.txt
 scripts/__init__.py
 scripts/dir_utils.py
+scripts/index.py
+scripts/missing.py

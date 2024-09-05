@@ -247,4 +247,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Word documents
+*.docx
+
+# Other files
+Tarea RLM.pdf
+
 # End of https://www.toptal.com/developers/gitignore/api/python,windows,linux,macos
